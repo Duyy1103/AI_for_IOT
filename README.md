@@ -238,5 +238,3 @@ python generate_all_charts.py
 6. **McFee, B., et al. (2024).** *librosa/librosa: 0.11.0.* Zenodo. https://doi.org/10.5281/zenodo.10849767.
 
 ---
-
-*Copyright © 2026 Dương Minh Duy. Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh.*
