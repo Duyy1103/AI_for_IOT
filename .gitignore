@@ -1,0 +1,8 @@
+# Ignore all other files and directories except deliverables and docs
+*
+!*/
+!DuongMinhDuy_final.docx
+!DuongMinhDuy_final.ipynb
+!DuongMinhDuy_final.pptx
+!README.md
+!.gitignore
