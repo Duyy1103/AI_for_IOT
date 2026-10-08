@@ -230,11 +230,7 @@ python generate_all_charts.py
 
 ## 📚 9. Tài liệu Tham khảo
 
-1. **Piczak, K. J. (2015).** *ESC: Dataset for Environmental Sound Classification.* In Proceedings of the 23rd ACM International Conference on Multimedia (pp. 1015–1018).
-2. **Piczak, K. J. (2015).** *Environmental sound classification with convolutional neural networks.* In 2015 IEEE 25th International Workshop on Machine Learning for Signal Processing (MLSP) (pp. 1–6).
-3. **Park, D. S., et al. (2019).** *SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition.* Interspeech 2019, pp. 2613–2617.
-4. **Bajzik, J., & Jarina, R. (2022).** *Exploiting hierarchy in environmental sound classification.* 32nd International Conference Radioelektronika (RADIOELEKTRONIKA). DOI: 10.1109/RADIOELEKTRONIKA54537.2022.9764900.
-5. **Banbury, C., et al. (2020).** *MicroNets: Neural Network Architectures for Deploying TinyML Applications on Commodity Microcontrollers.* arXiv preprint arXiv:2010.11267.
-6. **McFee, B., et al. (2024).** *librosa/librosa: 0.11.0.* Zenodo. https://doi.org/10.5281/zenodo.10849767.
+1. **Piczak, K. J. (2015).** *Environmental sound classification with convolutional neural networks.* In 2015 IEEE 25th International Workshop on Machine Learning for Signal Processing (MLSP) (pp. 1–6).
+2. **Park, D. S., et al. (2019).** *SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition.* Interspeech 2019, pp. 2613–2617.
 
 ---
